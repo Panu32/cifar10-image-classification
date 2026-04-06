@@ -35,7 +35,7 @@ The CNN model consists of:
 
 ## 📊 Results
 
-* 📈 Achieved Test Accuracy: **XX%**
+* 📈 Achieved Test Accuracy: 88%
 * Model shows good generalization with balanced precision and recall across classes.
 
 ---
